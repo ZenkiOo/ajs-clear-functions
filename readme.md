@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/a0qjqee24b4sfuau?svg=true)](https://ci.appveyor.com/project/ZenkiOo/ajs-functions)
+[![Build status](https://ci.appveyor.com/api/projects/status/dmul8atwh8015005?svg=true)](https://ci.appveyor.com/project/ZenkiOo/ajs-clear-functions)
